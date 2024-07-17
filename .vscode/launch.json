@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Python: Generate Forgetting Curve",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/scripts/generate_forgetting_curve.py",
+        "console": "integratedTerminal"
+      }
+    ]
+  }
+  
